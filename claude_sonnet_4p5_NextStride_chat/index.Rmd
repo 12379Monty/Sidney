@@ -164,3 +164,13 @@ PREFIX <- "index" #- replace by FLOWCELL???
 #############################################################
 #############################################################
 
+
+
+<!-- To run
+# nohup Rscript -e "knitr::knit2html('index.Rmd')" > index.log  &
+
+# Or
+# nohup Rscript -e "rmarkdown::render('index.Rmd')" > index.log  &
+
+-->
+

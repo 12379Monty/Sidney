@@ -10,7 +10,7 @@ output:
   #html_document:
 #   code_folding: hide
 #   code_download: true
-    toc: true
+    toc: false
     toc_depth: 2
     # does this have an effect
     fig_caption: yes
