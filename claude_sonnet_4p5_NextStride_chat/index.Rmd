@@ -133,9 +133,9 @@ PREFIX <- "index" #- replace by FLOWCELL???
 
 <br/>
 
-# [_README](,/_README,html)
+# [_README](_README.html)
 
-# [_nexstride_initial_report.html](nexstride_initial_report.html)
+# [nexstride_initial_report.html](nexstride_initial_report.html)
 
 <br/>
 
