@@ -1,5 +1,5 @@
 ---
-title: "Group Normalization"
+title: "SC Projects"
 ###\nLessons from 20 years of expererience"
 ###author: "[Francois Collin](https://www.linkedin.com/in/francoisz/)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
@@ -136,26 +136,14 @@ PREFIX <- "index" #- replace by FLOWCELL???
 # Introduction
 
 
-* We are interested in learning about the preprocessing step referred to as 
-normalization in **Group Normalization for Genomic Data**, Ghandi and Beer 2012 [@Ghandi:2012aa]
-
-* David 2006 [@David:2006aa] and Huber 2006 [@Huber:2006aa] offer an alternative  
-procedure and provide data and software to assess performance.
+* We are interested in learning about
+* 
 
 <br/>
 
 # AI queries 
 
-* [./claude_3.7_GNGD-chat/](./claude_3.7_GNGD-chat/)
-
-* [./claude_3.7_GNGD-project/](./claude_3.7_GNGD-project/)
-
-* [./claude_3.7_GNGD-project2/](./claude_3.7_GNGD-project2/)
-
-* [./claude_3.7_GNGD-project3/](./claude_3.7_GNGD-project3/)
-
-
-<br/>
+* [./claude_sonnet_4,5_NextStride_chat/](./claude_sonnet_4,5_NextStride_chat/)
 
 ## Data Retrieval
 

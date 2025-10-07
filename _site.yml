@@ -1,0 +1,7 @@
+name: "Sidney"
+output_dir: "."
+navbar:
+  title: SC Projects
+  left:
+    - text: "Home"
+      href: index.html

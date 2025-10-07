@@ -7,11 +7,11 @@
 
 
 OUTPUT="_site.yml"
-TITLE="Group Normalization"
+TITLE="SC Projects"
 
 DESCRIPTION="Section: YYY"
 
-echo 'name: "regroup_norm"' > $OUTPUT
+echo 'name: "Sidney"' > $OUTPUT
 echo 'output_dir: "."' >> $OUTPUT
 echo 'navbar:' >> $OUTPUT
 echo '  title: '$TITLE >> $OUTPUT
