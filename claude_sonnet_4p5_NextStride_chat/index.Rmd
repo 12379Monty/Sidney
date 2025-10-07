@@ -1,6 +1,5 @@
 ---
-title: "claude_sonnet_4,5_NextStride_ch
-at
+title: "claude_sonnet_4,5_NextStride_chat"
 ###\nLessons from 20 years of expererience"
 ###author: "[Francois Collin](https://www.linkedin.com/in/francoisz/)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"

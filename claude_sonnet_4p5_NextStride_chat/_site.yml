@@ -1,0 +1,7 @@
+name: "claude4p5"
+output_dir: ."
+navbar:
+  title: claude_sonnet_4p5_NextStride_chat
+  left:
+    - text: "Home"
+      href: index.html
