@@ -143,18 +143,7 @@ PREFIX <- "index" #- replace by FLOWCELL???
 
 # AI queries 
 
-* [./claude_sonnet_4,5_NextStride_chat/](./claude_sonnet_4,5_NextStride_chat/)
-
-## Data Retrieval
-
-* [_get_data.Rmd](./_get_data.html)
-
-
-<br/>
-
-# Main Analysis
-
-* [_GN4GD_analysis.html](_GN4GD_analysis.html)
+* [./claude_sonnet_4p5_NextStride_chat/](./claude_sonnet_4p5_NextStride_chat/)
 
 
 
